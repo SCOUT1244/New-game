@@ -1,0 +1,6 @@
+{
+  "name": "Game App",
+  "description": "Android game project with a staging folder for split game resource archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
